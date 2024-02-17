@@ -1,0 +1,3 @@
+def saludar
+   puts "hola a todos/as"
+end
